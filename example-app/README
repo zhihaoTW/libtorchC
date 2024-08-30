@@ -1,0 +1,11 @@
+
+
+PATH:/home/zhihao/libtorch
+
+mkdir build
+cd build
+cmake -DCMAKE_PREFIX_PATH=/home/zhihao/libtorch ..
+cmake --build . --config Release
+
+
+
