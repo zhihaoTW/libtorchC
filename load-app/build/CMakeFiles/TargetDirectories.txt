@@ -1,0 +1,3 @@
+/home/zhihao/libtorchC/load-app/build/CMakeFiles/rebuild_cache.dir
+/home/zhihao/libtorchC/load-app/build/CMakeFiles/edit_cache.dir
+/home/zhihao/libtorchC/load-app/build/CMakeFiles/load-app.dir
