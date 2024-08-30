@@ -1,0 +1,3 @@
+/home/zhihao/libtorchC/mnist/build/CMakeFiles/rebuild_cache.dir
+/home/zhihao/libtorchC/mnist/build/CMakeFiles/edit_cache.dir
+/home/zhihao/libtorchC/mnist/build/CMakeFiles/mnist.dir
