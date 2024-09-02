@@ -1,0 +1,4 @@
+/home/zhihao/examples/cpp/transfer-learning/build/CMakeFiles/rebuild_cache.dir
+/home/zhihao/examples/cpp/transfer-learning/build/CMakeFiles/edit_cache.dir
+/home/zhihao/examples/cpp/transfer-learning/build/CMakeFiles/classify.dir
+/home/zhihao/examples/cpp/transfer-learning/build/CMakeFiles/example.dir
